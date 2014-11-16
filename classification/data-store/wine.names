@@ -1,0 +1,15 @@
+the target attribute : class
+class: 1,2,3
+alcohol: continuous
+malic acid: continuous
+ash: continuous
+alcalinity: continuous
+magnesium: continuous
+phenols: continuous
+flavenoids: continuous
+non-flavenoids: continuous
+Proanthocyanins: continuous
+color: continuous
+hue: continuous
+diluted: continuous
+proline: continuous
