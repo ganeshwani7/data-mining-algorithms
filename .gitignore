@@ -33,6 +33,7 @@ lib/*
 
 # Ignore any executables
 bin/*
+main
 
 # Ignore Mac specific files
 .DS_Store
